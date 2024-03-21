@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Anslem/Desktop/MACHINE%20LEARNING%20PROJECT/MACHINE-LEARNING-PROJECT/MACHINE-LEARNING-PROJECT/mlruns/0/26e1b6895f9e45348f826bc7d92ee728/artifacts
+end_time: 1711036516370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26e1b6895f9e45348f826bc7d92ee728
+run_name: detection rate
+run_uuid: 26e1b6895f9e45348f826bc7d92ee728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711036516320
+status: 3
+tags: []
+user_id: Anslem
